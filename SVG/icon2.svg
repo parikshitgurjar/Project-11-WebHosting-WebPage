@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="rgba(255,255,255,0)"/>
+<g transform="matrix(8.3789 0 0 8.3789 483.2178 489.4936)" id="987702">
+<linearGradient id="SVGID_264" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)" x1="760" y1="768.778" x2="789.245" y2="826.311">
+<stop offset="0%" style="stop-color:rgb(9,198,249);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(4,93,233);stop-opacity: 1"/>
+</linearGradient>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: url(#SVGID_264); fill-rule: evenodd; opacity: 1;" transform=" translate(-784, -793)" d="M 776.079 769.917 C 781.289 768.694 786.711 768.694 791.921 769.917 C 799.444 771.681 805.319 777.556 807.083 785.079 C 808.306 790.289 808.306 795.711 807.083 800.921 C 805.319 808.444 799.444 814.319 791.921 816.083 C 786.711 817.306 781.289 817.306 776.079 816.083 C 768.556 814.319 762.681 808.444 760.917 800.921 C 759.694 795.711 759.694 790.289 760.917 785.079 C 762.681 777.556 768.556 771.681 776.079 769.917 Z M 787.973 787.7 C 788.807 787.366 789.634 788.193 789.301 789.027 L 787.22 794.229 C 786.857 795.137 786.137 795.856 785.229 796.22 L 780.027 798.3 C 779.194 798.634 778.366 797.807 778.7 796.973 L 780.781 791.771 C 781.144 790.863 781.863 790.144 782.772 789.78 L 787.973 787.7 Z M 792.145 790.165 C 793.479 786.83 790.17 783.522 786.836 784.855 L 781.634 786.936 C 779.947 787.611 778.611 788.947 777.936 790.634 L 775.856 795.835 C 774.522 799.17 777.831 802.478 781.165 801.145 L 786.367 799.064 C 788.053 798.389 789.39 797.053 790.064 795.366 L 792.145 790.165 Z" stroke-linecap="round"/>
+</g>
+</svg>
