@@ -7,7 +7,7 @@
 ###  This Project is build using HTML & TAILWIND CSS  
 
 <b> Note: </b>  This Project is Mobile Responisive. 
- - In our Project the Media Query Targets  the particular viewport range.
+ - In our Project the we Targets the Responsiveness for the particular viewport range.
  
 we will get a deeper dive into the concepts of Responsive Design with Tailwind CSS in coming Projects.
 ***
