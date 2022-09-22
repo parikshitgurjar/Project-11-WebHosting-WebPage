@@ -39,7 +39,7 @@ we will get a deeper dive into the concepts of Responsive Design with Tailwind C
 ***
 
 ### <b>Time Taken To Complete This Project : 3 days </b> 
-<br/> (it includes not only Project but also the time taken in understanding the Concepts of Tailwind CSS)
+<br/> (total time taken includes not only the Project but also the time taken in understanding the Concepts of Tailwind CSS)
 
 ***
 
